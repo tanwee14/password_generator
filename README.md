@@ -23,6 +23,16 @@ This is a **JavaScript-based Password Generator** built with HTML, CSS, and vani
 
 ---
 
+## 📁 File Structure
+
+```
+
+/project-folder
+│
+├── passwgen.html         # The main HTML file
+├── passwgen.css          # CSS styling for the app
+└── passwgen.js 
+
 ## 💻 How to Use
 
 1. Clone the repository or download the files.

@@ -26,7 +26,7 @@ This is a **JavaScript-based Password Generator** built with HTML, CSS, and vani
 ## 💻 How to Use
 
 1. Clone the repository or download the files.
-2. Open `index.html` in your browser.
+2. Open `passwgen.html` in your browser.
 3. Use the slider to select password length.
 4. Click the **copy icon** to copy the password.
 5. Click **Generate** to refresh the password.
